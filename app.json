@@ -1,0 +1,26 @@
+{
+  "id": "2c632330-78a0-48c7-a771-e8e241ba7a41",
+  "name": "Reproductive BC17",
+  "publisher": "CBR Technology",
+  "version": "17.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ReproductiveBC17.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
