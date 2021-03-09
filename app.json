@@ -2,7 +2,7 @@
   "id": "2c632330-78a0-48c7-a771-e8e241ba7a41",
   "name": "Reproductive BC17",
   "publisher": "CBR Technology",
-  "version": "17.0.0.1",
+  "version": "17.0.0.4",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -10,7 +10,9 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+   
+  ],
   "screenshots": [],
   "platform": "17.0.0.0",
   "application": "17.0.0.0",
